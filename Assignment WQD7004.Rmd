@@ -1,0 +1,30 @@
+---
+title: "Medical Insurance Cost Prediction"
+output:
+  word_document: default
+  html_document: default
+date: "2024-06-07"
+---
+
+## Group 1
+
+## WQD7004 Group Assignment
+
+## Members:
+
+LEE QIAN HUI (22080395)
+
+THEN DAO QING (23057608)
+
+CHOON YUE HUA (17152027)
+
+KONG JING YUAAN (U2005395)
+
+YANG XIAOQIAN (22108565)
+
+## Introduction
+
+```{r df}
+df = read.csv("insurance.csv")
+```
+
