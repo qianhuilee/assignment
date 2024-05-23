@@ -1,7 +1,6 @@
 ---
 title: "Medical Insurance Cost Prediction"
 output:
-  word_document: default
   html_document: default
 date: "2024-06-07"
 ---
